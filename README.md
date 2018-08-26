@@ -1,2 +1,2 @@
 # git-github
-Git learning
+Git learning example repository
